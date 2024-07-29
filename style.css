@@ -34,3 +34,10 @@
         rgba(0,0,0,1) 25%
     );
 }
+
+@media (max-width:425px) {
+    .container h1{
+        font-size: 5rem;
+        text-align: center;
+    }
+}
